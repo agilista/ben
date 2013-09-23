@@ -9,10 +9,14 @@ Why?
 Writing a build script in xml is just wrong.  No, its not configuration, it's scripting a build in xml that calls Java.
 Besides that, Javascript is the most ubiquitous language of our time.
 
+
 For building software, you need something that is sometimes procedural, sometimes modular, and sometimes object oriented.
 Xml is none of those.
+
+
 Also, Gradle is quite crap (for a bunch of reasons), and is based on a bunch of broken maven paradigms.
 And it isn't Javascript.  Did I mention js is the most popular language of our time?  Hmm, I guess I did already.
+
 
 Also, ben has ascii art.  So there.
 
