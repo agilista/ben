@@ -36,10 +36,12 @@ Right now you need Java 6 or 7 pre-installed.  I have tried it with Nashorn, the
 
 For now:
 
+```
 Run Ben#main
 Unzip ben/dist/ben.zip into a directory somewhere
 add the unzipped directory to the path
 then use ''ben'' or ''ben <filename>'' from the command line at the root of your project.
+```
 
 If you use ''ben'' without a file name, ben will first look for module.js.  If it can't find that, it'll use the
 defaults set in the _module.js file (in the root of the ben.jar archive)
