@@ -1,0 +1,1 @@
+java -classpath ./ben.jar uk.co.itstherules.buildentertainment.Ben $@
