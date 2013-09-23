@@ -51,6 +51,7 @@ defaults set in the _module.js file (in the root of the ben.jar archive)
 Backlog
 =======
 
+ - Waaaayyy better tests
  - Decent docs
  - Dependency management nailed
     - There is a separate project called bentorrent that will give torrent sharing capabilities to libs
