@@ -38,8 +38,8 @@ For now:
 
 ```
 Run Ben#main
-Unzip ben/dist/ben.zip into a directory somewhere
-add the unzipped directory to the path
+Unzip dist/ben.zip into a directory somewhere
+Either add the unzipped directory to the path or symlink the ben sh file
 then use ''ben'' or ''ben <filename>'' from the command line at the root of your project.
 ```
 
@@ -57,6 +57,6 @@ Backlog
     - There is a separate project called bentorrent that will give torrent sharing capabilities to libs
  - Installers for different OS's
  - Rolled out to other projects I'm working on
- - Refactor a chunk to make it a completely pull based build system (thus promise compatible)
+ - Refactor a chunk to make it a completely pull based build system (thus torrent and promise compatible)
  - Default targets needs to be added for javascript projects (easy way to package up modules etc)
  - Fix the broken weirdness of separating dependency management into Continuous Integration and many builds, using different technology, and different scripts / config.  The plan is to re-unify this.

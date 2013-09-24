@@ -16,6 +16,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33de4117-e236-4c19-ac48-5c41ef75dd4a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ben.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -155,9 +156,8 @@
     <file path="/ben" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379960819050" ignored="false" />
     <file path="/io.js" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379966604582" ignored="false" />
     <file path="/run_tests.js" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379967733892" ignored="false" />
-    <file path="/README.md" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379972840097" ignored="false" />
+    <file path="/README.md" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1380011412016" ignored="false" />
     <file path="/.gitignore" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379971379775" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="33de4117-e236-4c19-ac48-5c41ef75dd4a" time="1379972841369" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +320,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="24" selection-start="1679" selection-end="1679" vertical-scroll-proportion="0.60134006">
+            <state line="40" column="6" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.46516854">
               <folding />
             </state>
           </provider>
@@ -840,7 +840,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23415978" sideWeight="0.68562233" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3143777" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3143777" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1059,7 +1059,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="24" selection-start="1679" selection-end="1679" vertical-scroll-proportion="0.60134006">
+        <state line="40" column="6" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.46516854">
           <folding />
         </state>
       </provider>
